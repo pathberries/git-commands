@@ -4,6 +4,12 @@
 ### - Empty Repository Initialization
 ``` git init```
 
+### - Configuring email
+```git config --global user.email "user@mail.com"```
+
+### - Configuring name
+```git config --global user.name "userName"```
+
 ### - Adding URL to Repository
 ```git remote add origin URL```
 
