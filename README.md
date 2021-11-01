@@ -46,3 +46,5 @@
 
 ### - Push Files (local to GitHub)
 ```git push -u origin master```
+#### or
+``` git push```
